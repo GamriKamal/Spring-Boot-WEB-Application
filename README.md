@@ -19,3 +19,5 @@ Here is a list of commands that are available for use:
 ***make build project***: This goal builds the project with maven.
 
 The domain for which the home page of the web application is available: http://127.0.0.1:8080/welcomePage
+
+On the site, you can register, log in to your account, add movies or TV series to the "Watch later" or "Favorite movies/TV series" section. You can also search for your movies or TV series. Each movie or TV series has its own additional page, which has a rating, description and a full cast of actors and directors.
