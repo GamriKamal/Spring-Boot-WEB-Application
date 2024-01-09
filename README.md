@@ -17,3 +17,5 @@ Here is a list of commands that are available for use:
 ***make list***: Displays a list of Docker containers associated with the project.
 
 ***make build project***: This goal builds the project with maven.
+
+The domain for which the home page of the web application is available: http://127.0.0.1:8080/welcomePage
