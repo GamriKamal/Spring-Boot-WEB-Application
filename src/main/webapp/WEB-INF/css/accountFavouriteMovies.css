@@ -1,0 +1,49 @@
+body{
+    background-color: #041E42;
+    color:white;
+}
+
+ul, li{
+    list-style: none;
+}
+
+.posterMovie img{
+    width: 150px;
+    height: 200px;
+}
+
+.description{
+    position: absolute;
+    margin-left: 10%;
+    margin-top: -9%;
+}
+
+strong{
+    font-size: 25px;
+}
+
+.movieCard{
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.caption{
+    font-size: 20px;
+    color: gray;
+}
+
+.container{
+    margin-top: 2%;
+}
+
+.linkCaption a{
+    text-decoration: none;
+}
+
+.tagline{
+    font-size: 17px;
+    font-style: italic;
+    color: gray;
+
+}
+
